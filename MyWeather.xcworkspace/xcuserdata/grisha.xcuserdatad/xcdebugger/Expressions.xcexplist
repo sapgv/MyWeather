@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "AppDelegate.locationManager(CLLocationManager, didUpdateLocations : [CLLocation]) -&gt; ():AppDelegate.swift">
+      </ContextState>
+      <ContextState
+         contextName = "OpenWeatherMapService.retrieveWeather(String?, location : CLLocation?, completionHandler : (Weather?, SWError?) -&gt; ()) -&gt; ():OpenWeatherMapService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PageViewController.viewWillAppear(Bool) -&gt; ():PageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewControllerList.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WeatherViewController.viewWillAppear(Bool) -&gt; ():WeatherViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locationLabel.text">
+            </PersistentString>
+            <PersistentString
+               value = "self.city?.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.(locationManager(CLLocationManager, didUpdateLocations : [CLLocation]) -&gt; ()).(closure #1):AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "listData.first.temp">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WeatherViewController.(viewModel.didset).(closure #3):WeatherViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Double($0)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CityTableViewController.tableView(UITableView, commit : UITableViewCellEditingStyle, forRowAt : IndexPath) -&gt; ():CityTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cities">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OpenWeatherMapService.(retrieveWeather(String?, location : CLLocation?, completionHandler : (Weather?, SWError?) -&gt; ()) -&gt; ()).(closure #1):OpenWeatherMapService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[&quot;name&quot;].string&#10;">
+            </PersistentString>
+            <PersistentString
+               value = "json[&quot;name&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "weatherIcon.iconText">
+            </PersistentString>
+            <PersistentString
+               value = "name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ListTableViewController.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:ListTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "listData.name">
+            </PersistentString>
+            <PersistentString
+               value = "listData.temp">
+            </PersistentString>
+            <PersistentString
+               value = "listData.date">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
